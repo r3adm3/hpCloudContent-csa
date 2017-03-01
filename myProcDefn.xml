@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<ooengines>
+  <ooengine accessPointType="URL"
+            name="OO_URL"
+            uri="https://win-oo-001.local:8443/PAS/services/WSCentralService"
+            username="admin"
+            password="ENC(bPGx4w9h9UyQFa3hgd9X0w==)"
+            truststore="/usr/local/hpe/csa/openjre/lib/security/cacerts"
+            truststorePassword="ENC(K8qO6xSDXmP64uhAaXd2EUQbO1vS7BNG)">
+    <folder path="/Library/TestResource" recursive="true" update="true"/>
+  </ooengine>
+
+</ooengines>
